@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Sander!
 ```diff
-+ I´m passionate about building solutions through code
-+ Full stack developer
++ Vortx
++ Feel free to contact me
 + Diving deeper and trying to get better everyday at software development
 ```
 --- 
