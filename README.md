@@ -4,7 +4,6 @@
 + Feel free to contact me
 + Diving deeper and trying to get better everyday at software development
 ```
---- 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanderiwase/)
 
 <!--
